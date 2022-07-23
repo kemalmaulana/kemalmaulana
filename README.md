@@ -5,12 +5,12 @@
 - 🕵 The way I code is I always make sure the code is clean architecture and following the lints with the standard guidelines
 - 🔭 I’m currently working on Dinas Komunikasi Informatika & Statistik Kab. Bandung Barat as a Mobile Engineer
 - 🌱 I love to study even more the details about techinical in computer stuff and Mobile Development
-- 💻 I learn a lot in is field but I choose Mobile Development as my speciality because it's my dream since I was a high school
+- 🎯 I learn a lot in this field but I choose Mobile Development as my speciality because it's my dream since I was sitting in high school
 - 🔍 I'm currently studying Swift and Dart more elaborately
 - 👯 I do collaborate with a friends that can produce more product for better future
 - 🎓 I am a Bachelor Degree in Informatics Engineering (Planning to take Master Degree ASAP)
 - 📚 My thesis was IoT and Mobile Development related so I know fundamentals of IoT like Arduino and Raspberry Pi too
-- 📫 You can reach me in my email at kemalmaulana19@gmail.com or my [LinkedIn Profile](https://www.linkedin.com/in/kemal-maulana/)
+- 📫 You can reach me in my email at kemalmaulana19@gmail.com
 - ⚡ Fun fact: I am a great person to talk about technical in computer engineering, I'm also a former of Indonesian Overclocker
 
 ## ⚡ Tech Stack
@@ -28,7 +28,6 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
 
 ### 💻 Working Specs
 
