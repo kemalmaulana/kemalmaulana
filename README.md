@@ -32,6 +32,7 @@
 ### 💻 Working Specs
 
 ![Macbook Pro](https://img.shields.io/badge/Apple-MacBook_Pro_2020_M1-999999?style=for-the-badge&logo=apple&logoColor=white)
+![Macbook Air](https://img.shields.io/badge/Apple-MacBook_Air_2022_M2-999999?style=for-the-badge&logo=apple&logoColor=white)
 
 ### 🎮 Gaming Platform
 
